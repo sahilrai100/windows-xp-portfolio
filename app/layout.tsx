@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://sahilrai-portfolio.vercel.app"),
   title: "Sahil Rai - Portfolio XP",
   description: "Sahil Rai's Windows XP-themed portfolio - Backend Software Engineer from Bengaluru, India",
   keywords: ["portfolio", "windows xp", "software engineer", "backend", "python", "django", "fastapi", "sahil rai"],
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sahil Rai - Portfolio XP",
     description: "Windows XP style portfolio - Backend Software Engineer from Bengaluru, India",
-    url: "https://github.com/sahilrai100",
+    url: "https://sahilrai-portfolio.vercel.app",
     siteName: "Sahil Rai Portfolio",
     images: [
       {
