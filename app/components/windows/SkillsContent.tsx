@@ -47,7 +47,7 @@ const categories = [
     name: 'Tools & Platforms',
     icon: '🔧',
     color: '#f0ad4e',
-    items: ['Git', 'GitHub', 'Postman'],
+    items: ['Git', 'GitHub', 'Postman', 'Microsoft Azure'],
   },
 ];
 
