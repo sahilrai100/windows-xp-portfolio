@@ -25,7 +25,7 @@ const projects: Project[] = [
     description: 'Full-stack e-commerce app with product browsing, cart, wishlist, secure authentication, profile management, Stripe checkout and automated order confirmation emails.',
     tags: ['Python', 'Django', 'PostgreSQL', 'Stripe API', 'Bootstrap', 'Vercel', 'Neon'],
     icon: '🛒',
-    url: 'https://zyanya-shop.vercel.app',
+    url: 'https://zyanya-store.vercel.app',
     github: 'https://github.com/sahilrai100/real-ecommerece-',
   },
   {
