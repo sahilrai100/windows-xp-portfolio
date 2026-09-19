@@ -40,8 +40,9 @@ const projects: Project[] = [
     id: 4,
     name: 'Startup Pitcher',
     description: 'A platform where users pitch their startup ideas and others can view, like and comment on them.',
-    tags: ['React JS', 'Python', 'Django', 'SQLite3', 'CSS', 'JavaScript'],
+    tags: ['React JS', 'Python', 'Django', 'Django REST Framework', 'PostgreSQL', 'JWT', 'Vercel'],
     icon: '🚀',
+    url: 'https://startup-pitch-hub01.vercel.app',
     github: 'https://github.com/sahilrai100/startup-pitcher',
   },
 ];
