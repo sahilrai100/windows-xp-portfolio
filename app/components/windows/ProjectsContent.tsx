@@ -32,8 +32,9 @@ const projects: Project[] = [
     id: 3,
     name: 'PDF Tools Web App',
     description: 'Full-stack PDF tools app with modular REST APIs, a service-layer architecture and middleware-based request handling for scalable PDF processing workflows.',
-    tags: ['Node.js', 'Express.js', 'JavaScript', 'REST API'],
+    tags: ['Node.js', 'Express.js', 'JavaScript', 'REST API', 'MongoDB', 'Render'],
     icon: '📄',
+    url: 'https://pdfspark-tools.onrender.com',
     github: 'https://github.com/sahilrai100/pdf-tools-webapp',
   },
   {
@@ -42,7 +43,7 @@ const projects: Project[] = [
     description: 'A platform where users pitch their startup ideas and others can view, like and comment on them.',
     tags: ['React JS', 'Python', 'Django', 'Django REST Framework', 'PostgreSQL', 'JWT', 'Vercel'],
     icon: '🚀',
-    url: 'https://startup-pitch-hub01.vercel.app',
+    url: 'https://startuphub.vercel.app',
     github: 'https://github.com/sahilrai100/startup-pitcher',
   },
 ];
